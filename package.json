@@ -4,7 +4,7 @@
   "description": "A collection of small utility classes, functions, and events which work nicely with Mineflayer.",
   "main": "lib/index.js",
   "scripts": {
-    "prepare": "tsc"
+    "prepare": "tsc && require-self"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   "homepage": "https://github.com/TheDudeFromCI/mineflayer-utils#readme",
   "dependencies": {
     "mineflayer": "^2.25.0",
+    "require-self": "^0.2.3",
     "typescript": "^3.9.7"
   },
   "files": [
