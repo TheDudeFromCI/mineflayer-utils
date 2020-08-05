@@ -1,0 +1,31 @@
+{
+  "name": "mineflayer-utils",
+  "version": "0.1.0",
+  "description": "A collection of small utility classes, functions, and events which work nicely with Mineflayer.",
+  "main": "lib/index.js",
+  "scripts": {
+    "prepare": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheDudeFromCI/mineflayer-utils.git"
+  },
+  "keywords": [
+    "mineflayer",
+    "util",
+    "utils"
+  ],
+  "author": "TheDudeFromCI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheDudeFromCI/mineflayer-utils/issues"
+  },
+  "homepage": "https://github.com/TheDudeFromCI/mineflayer-utils#readme",
+  "dependencies": {
+    "mineflayer": "^2.25.0",
+    "typescript": "^3.9.7"
+  },
+  "files": [
+    "lib/**/*"
+  ]
+}
