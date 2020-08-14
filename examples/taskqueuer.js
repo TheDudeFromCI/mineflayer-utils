@@ -1,5 +1,5 @@
 /*
- * This examples show the usage of the task queue class in order to help
+ * This example shows the usage of the task queue class in order to help
  * make your code look cleaner when running lots of nested async tasks.
  *
  * This is helpful to preventing "pyramid of doom"-style callback nesting.
