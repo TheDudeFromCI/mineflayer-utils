@@ -38,6 +38,7 @@ export class TaskQueue
             try
             {
                 task();
+                cb();
             }
             catch (err)
             {
