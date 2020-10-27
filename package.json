@@ -26,7 +26,7 @@
     "mineflayer": "^2.27.0",
     "prismarine-entity": "^1.0.0",
     "require-self": "^0.2.3",
-    "typescript": "^3.9.7"
+    "typescript": "^4.0.0"
   },
   "files": [
     "lib/**/*"
